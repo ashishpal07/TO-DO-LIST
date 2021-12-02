@@ -1,7 +1,7 @@
 
 # TO DO LIST
 
-# [Project Live](https://ashishpal07.github.io/Todo-List-CN/)
+# [Project Live](https://ashishpal07.github.io/TO-DO-LIST/)
 
 I have created To Do List project using HTML, CSS, Vanilla JavaScript.
 This is simple, there is one input box from which you can add tasks to
